@@ -18,8 +18,7 @@ function loadNewsletterList() {
         const listItem = document.createElement('li');
         listItem.innerHTML = `
             <a href="newsletters/${newsletter.date}.html">
-                <strong>${newsletter.title}</strong><br>
-                <small>${newsletter.description}</small>
+                <strong>${newsletter.date}</strong> - ${newsletter.description}
             </a>
         `;
         listElement.appendChild(listItem);
