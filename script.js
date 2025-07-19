@@ -4,6 +4,11 @@ const newsletters = [
         date: "18-07-2025",
         title: "18 de julho de 2025",
         description: "STF mantém IOF, OpenAI expande, Lovable vira unicórnio"
+    },
+    {
+        date: "17-07-2025",
+        title: "17 de julho de 2025",
+        description: "Trump de olho no Pix, IOF, Verificação em duas etapas"
     }
     // Novas newsletters serão adicionadas aqui
 ];
