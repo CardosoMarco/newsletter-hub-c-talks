@@ -1,6 +1,10 @@
 // Lista de newsletters disponíveis
 const newsletters = [
     {
+        date: "21-07-2025",
+        description: "Criptomoedas atingem US$ 4 trilhões, Red Bull e inovação"
+    },
+    {
         date: "18-07-2025",
         description: "STF mantém IOF, OpenAI expande, Lovable vira unicórnio"
     },
