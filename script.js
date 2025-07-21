@@ -7,7 +7,7 @@ const newsletters = [
     {
         date: "17-07-2025",
         description: "Trump de olho no Pix, IOF, Verificação em duas etapas"
-    }
+    },
     {
         date: "21-07-2025",
         description: "Menos scroll, mais
