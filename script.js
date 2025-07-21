@@ -1,22 +1,16 @@
 // Lista de newsletters disponíveis
 const newsletters = [
     {
+        date: "21-07-2025",
+        description: "Menos scroll, mais substância"
+    },
+    {
         date: "18-07-2025",
         description: "STF mantém IOF, OpenAI expande, Lovable vira unicórnio"
     },
     {
         date: "17-07-2025",
         description: "Trump de olho no Pix, IOF, Verificação em duas etapas"
-    },
-    {
-        date: "21-07-2025",
-        description: "Menos scroll, mais
-substância"
-    },
-    {
-        date: "21-07-2025",
-        description: "Menos scroll, mais
-substância"
     },
     // Novas newsletters serão adicionadas aqui
 ];
