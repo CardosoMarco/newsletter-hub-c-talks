@@ -13,6 +13,11 @@ const newsletters = [
         description: "Menos scroll, mais
 substância"
     },
+    {
+        date: "21-07-2025",
+        description: "Menos scroll, mais
+substância"
+    },
     // Novas newsletters serão adicionadas aqui
 ];
 
