@@ -1,6 +1,10 @@
 // Lista de newsletters disponíveis
 const newsletters = [
     {
+        date: "22-07-2025",
+        description: "OpenAI queima US$ 46 bi, Tiffany irrita bilionários, skin readers"
+    },
+    {
         date: "21-07-2025",
         description: "Criptomoedas atingem US$ 4 trilhões, Red Bull e inovação"
     },
