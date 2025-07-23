@@ -1,6 +1,10 @@
 // Lista de newsletters disponíveis
 const newsletters = [
     {
+        date: "23-07-2025",
+        description: "Figma prepara maior IPO do ano, TSMC no clube do trilhão, Gen Z e IA"
+    },
+    {
         date: "22-07-2025",
         description: "OpenAI queima US$ 46 bi, Tiffany irrita bilionários, skin readers"
     },
