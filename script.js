@@ -1,6 +1,10 @@
 // Lista de newsletters disponíveis
 const newsletters = [
     {
+        date: "24-07-2025",
+        description: "Nubank vira operadora, Pop Mart supera Barbie, Três Gargantas move a Terra"
+    },
+    {
         date: "23-07-2025",
         description: "Figma prepara maior IPO do ano, TSMC no clube do trilhão, Gen Z e IA"
     },
