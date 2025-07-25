@@ -1,6 +1,10 @@
 // Lista de newsletters disponíveis
 const newsletters = [
     {
+        date: "25-07-2025",
+        description: "iFood compra Alelo R$ 5 bi, GPT-5 em agosto, Google 8,5 bi pesquisas/dia"
+    },
+    {
         date: "24-07-2025",
         description: "Nubank vira operadora, Pop Mart supera Barbie, Três Gargantas move a Terra"
     },
