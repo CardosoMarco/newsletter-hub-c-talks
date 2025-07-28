@@ -1,6 +1,10 @@
 // Lista de newsletters disponíveis
 const newsletters = [
     {
+        date: "28-07-2025",
+        description: "Stanley R$ 4 bi, Paramount fusão US$ 8 bi, financeiras viram fintechs"
+    },
+    {
         date: "25-07-2025",
         description: "iFood compra Alelo R$ 5 bi, GPT-5 em agosto, Google 8,5 bi pesquisas/dia"
     },
