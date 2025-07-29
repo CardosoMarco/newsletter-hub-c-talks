@@ -1,6 +1,10 @@
 // Lista de newsletters disponíveis
 const newsletters = [
     {
+        date: "29-07-2025",
+        description: "Petrobras R$ 2 tri no limbo, Prime Video supera Netflix, apps 44% mais caros"
+    },
+    {
         date: "28-07-2025",
         description: "Stanley R$ 4 bi, Paramount fusão US$ 8 bi, financeiras viram fintechs"
     },
