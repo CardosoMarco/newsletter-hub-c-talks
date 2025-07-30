@@ -1,6 +1,10 @@
 // Lista de newsletters disponíveis
 const newsletters = [
     {
+        date: "30-07-2025",
+        description: "Autoescola pode acabar, iFood/CRMBonus R$ 440 mi, vagas IA crescem 21x"
+    },
+    {
         date: "29-07-2025",
         description: "Petrobras R$ 2 tri no limbo, Prime Video supera Netflix, apps 44% mais caros"
     },
