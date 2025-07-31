@@ -1,6 +1,10 @@
 // Lista de newsletters disponíveis
 const newsletters = [
     {
+        date: "31-07-2025",
+        description: "BC mantém Selic 15%, tarifaço Trump 700 exceções, ChatGPT vs Google"
+    },
+    {
         date: "30-07-2025",
         description: "Autoescola pode acabar, iFood/CRMBonus R$ 440 mi, vagas IA crescem 21x"
     },
