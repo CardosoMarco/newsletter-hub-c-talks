@@ -1,6 +1,10 @@
 // Lista de newsletters disponíveis
 const newsletters = [
     {
+        date: "01-08-2025",
+        description: "EMS Ozempic brasileiro, Meta US$ 47,5 bi, Microsoft = Nvidia US$ 4 tri"
+    },
+    {
         date: "31-07-2025",
         description: "BC mantém Selic 15%, tarifaço Trump 700 exceções, ChatGPT vs Google"
     },
