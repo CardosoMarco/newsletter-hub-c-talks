@@ -1,6 +1,10 @@
 // Lista de newsletters disponíveis
 const newsletters = [
     {
+        date: "05-08-2025",
+        description: "Musk continuará Tesla US$ 30 bi, OnlyFans bilionários, BRF Marfrig fusão"
+    },
+    {
         date: "04-08-2025",
         description: "Apple cala críticos iPhone 3 anos, OpenAI US$ 300 bi, BB perde R$ 7,7 bi"
     },
