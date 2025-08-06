@@ -1,6 +1,10 @@
 // Lista de newsletters disponíveis
 const newsletters = [
     {
+        date: "06-08-2025",
+        description: "O gás virou problema ANP, Mercado Livre vs Shopee, iFood R$ 17 bi"
+    },
+    {
         date: "05-08-2025",
         description: "Musk continuará Tesla US$ 30 bi, OnlyFans bilionários, BRF Marfrig fusão"
     },
