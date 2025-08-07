@@ -1,0 +1,285 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>HUB C-Talks Newsletter - 07 de agosto de 2025</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            line-height: 1.6;
+            color: #333;
+            background: linear-gradient(135deg, #4A90E2 0%, #357ABD 100%);
+            min-height: 100vh;
+        }
+
+        .container {
+            max-width: 800px;
+            margin: 0 auto;
+            background: white;
+            box-shadow: 0 10px 30px rgba(0,0,0,0.1);
+            border-radius: 10px;
+            overflow: hidden;
+        }
+
+        .header {
+            background: linear-gradient(135deg, #4A90E2 0%, #357ABD 100%);
+            color: white;
+            padding: 30px;
+            text-align: center;
+            position: relative;
+        }
+
+        .header h1 {
+            font-size: 2.5em;
+            font-weight: 300;
+            margin-bottom: 10px;
+        }
+
+        .header .date {
+            font-size: 1.2em;
+            opacity: 0.9;
+            margin-bottom: 5px;
+        }
+
+        .header .reading-time {
+            font-size: 1em;
+            opacity: 0.8;
+        }
+
+        .content {
+            padding: 40px;
+        }
+
+        .back-link {
+            display: inline-block;
+            background: #4A90E2;
+            color: white;
+            padding: 10px 20px;
+            border-radius: 5px;
+            text-decoration: none;
+            margin-bottom: 20px;
+        }
+
+        .back-link:hover {
+            background: #357ABD;
+        }
+
+        .section {
+            margin: 30px 0;
+        }
+
+        .section-title {
+            color: #4A90E2;
+            font-size: 1.8em;
+            font-weight: 600;
+            margin-bottom: 20px;
+            padding-bottom: 10px;
+            border-bottom: 3px solid #F39C12;
+            display: inline-block;
+        }
+
+        .executive-summary {
+            background: linear-gradient(135deg, #4A90E2 0%, #357ABD 100%);
+            color: white;
+            padding: 30px;
+            border-radius: 10px;
+            margin: 30px 0;
+        }
+
+        .executive-summary h3 {
+            color: #F39C12;
+            margin-bottom: 20px;
+            font-size: 1.3em;
+        }
+
+        .summary-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+            gap: 25px;
+        }
+
+        .summary-category {
+            background: rgba(255,255,255,0.1);
+            padding: 20px;
+            border-radius: 8px;
+            backdrop-filter: blur(10px);
+        }
+
+        .summary-category h4 {
+            color: #F39C12;
+            margin-bottom: 15px;
+            font-size: 1.1em;
+            display: flex;
+            align-items: center;
+            gap: 8px;
+        }
+
+        .summary-item {
+            margin: 8px 0;
+            padding-left: 15px;
+            position: relative;
+            font-size: 0.9em;
+        }
+
+        .summary-item:before {
+            content: "•";
+            color: #F39C12;
+            position: absolute;
+            left: 0;
+        }
+
+        .insights-section {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+            gap: 25px;
+            margin: 30px 0;
+        }
+
+        .insight-card {
+            background: linear-gradient(135deg, #f8f9fa 0%, #e9ecef 100%);
+            padding: 25px;
+            border-radius: 10px;
+            border-left: 5px solid #4A90E2;
+            box-shadow: 0 5px 15px rgba(0,0,0,0.1);
+        }
+
+        .insight-card .insight-icon {
+            font-size: 2em;
+            margin-bottom: 15px;
+        }
+
+        .insight-card h3 {
+            color: #4A90E2;
+            margin-bottom: 15px;
+            font-size: 1.2em;
+        }
+
+        .insight-card p {
+            color: #555;
+            line-height: 1.6;
+        }
+
+        .footer {
+            background: #2c3e50;
+            color: white;
+            padding: 30px;
+            text-align: center;
+        }
+
+        .footer h3 {
+            color: #F39C12;
+            margin-bottom: 15px;
+        }
+
+        .footer p {
+            opacity: 0.8;
+            line-height: 1.6;
+        }
+
+        @media (max-width: 768px) {
+            .container {
+                margin: 10px;
+                border-radius: 5px;
+            }
+            
+            .header h1 {
+                font-size: 2em;
+            }
+            
+            .content {
+                padding: 20px;
+            }
+            
+            .summary-grid {
+                grid-template-columns: 1fr;
+            }
+            
+            .insights-section {
+                grid-template-columns: 1fr;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="header">
+            <h1>📊 HUB C-TALKS NEWSLETTER</h1>
+            <div class="date">📅 07 de agosto de 2025</div>
+            <div class="reading-time">⏱️ Leitura: 5:12 min</div>
+        </div>
+
+        <div class="content">
+            <a href="../index.html" class="back-link">← Voltar ao arquivo</a>
+            
+            <div class="executive-summary">
+                <h2>🎯 Resumo Executivo</h2>
+                <p style="font-style: italic; margin-bottom: 25px;">Para líderes com agenda apertada</p>
+                
+                <div class="summary-grid">
+                    <div class="summary-category">
+                        <h4>💼 NEGÓCIOS</h4>
+                        <div class="summary-item">Inter ultrapassa 40 milhões clientes, lucro R$ 315 mi crescimento 22%</div>
+                        <div class="summary-item">América Latina nova "década perdida" Cepal, crescimento inferior anos 1980</div>
+                        <div class="summary-item">Mundo fecha portas milionários brasileiros, Emirados Árabes destino favorito</div>
+                        <div class="summary-item">Uber lucra US$ 1,35 bi 2º tri, alta 33,5% crescimento rentabilidade</div>
+                        <div class="summary-item">Heineken investe R$ 1,2 bi triplicar produção PE domínio nordestino</div>
+                        <div class="summary-item">Itaú mantém ROE 23,3% lucratividade cenário econômico instável</div>
+                        <div class="summary-item">GPA pausa expansão física foca e-commerce culpando juros altos</div>
+                        <div class="summary-item">Iguatemi investe reformas vendas fracas justificar preços premium</div>
+                        <div class="summary-item">Disney surpreende fluxo caixa positivo streaming parques recuperando</div>
+                    </div>
+                    
+                    <div class="summary-category">
+                        <h4>🚀 TECNOLOGIA</h4>
+                        <div class="summary-item">Google lança IA cria videogames tempo real comandos texto Genie 3</div>
+                        <div class="summary-item">iFood assistente IA WhatsApp ajuda restaurantes vender mais dados</div>
+                        <div class="summary-item">Due quer ser "Pix global" stablecoins transferências internacionais 0,2%</div>
+                    </div>
+                    
+                    <div class="summary-category">
+                        <h4>🌍 BRASIL & MUNDO</h4>
+                        <div class="summary-item">Haddad agenda reunião EUA discutir tarifas ameaça medidas Trump</div>
+                        <div class="summary-item">Presidente Áustria desiste COP30 altos custos conferência Belém</div>
+                        <div class="summary-item">UBS questiona fronteiras países emergentes desenvolvidos revisão critérios</div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="insights-section">
+                <div class="insight-card">
+                    <div class="insight-icon">🧠</div>
+                    <h3>Insight do Dia</h3>
+                    <p>O Google acabou de lançar uma IA que cria videogames em tempo real apenas com comandos de texto. Genie 3 gera mundos 3D interativos a 24fps - é como ter um desenvolvedor infinitamente criativo no bolso.</p>
+                </div>
+                
+                <div class="insight-card">
+                    <div class="insight-icon">📊</div>
+                    <h3>Dado Relevante</h3>
+                    <p>R$ 21,2 bilhões - Itaú Unibanco, Bradesco e Santander Brasil tiveram um lucro combinado de R$ 21,234 bilhões no segundo trimestre, uma alta de 17,2% na comparação com o mesmo período do ano passado.</p>
+                </div>
+                
+                <div class="insight-card">
+                    <div class="insight-icon">📚</div>
+                    <h3>Curiosidade do Dia</h3>
+                    <p>Em 07 de agosto de 1947, a expedição Kon-Tiki de Thor Heyerdahl chegou ao fim quando sua balsa de madeira bateu em um recife em Raroia, no Arquipélago de Tuamotu. Após uma travessia épica de 101 dias e 8.000 km pelo Oceano Pacífico, Heyerdahl provou que povos pré-colombianos poderiam ter navegado da América do Sul até a Polinésia, revolucionando nossa compreensão sobre migrações antigas.</p>
+                </div>
+            </div>
+        </div>
+
+        <div class="footer">
+            <h3><b>HUB C-TALKS</b></h3>
+            <p>Informação estratégica para líderes executivos</p>
+            <p><b>Podcast: <a href="https://podctalks.com" target="_blank" style="color: white;">podctalks.com</a></b></p>
+            <p><b>Newsletter: <a href="https://bit.ly/ctalksnewsletter" target="_blank" style="color: white;">https://bit.ly/ctalksnewsletter</a></b></p>
+            <p><b>YouTube: <a href="https://bit.ly/C-TalksPodcast" target="_blank" style="color: white;">bit.ly/C-TalksPodcast</a></b></p>
+        </div>
+    </div>
+</body>
+</html>

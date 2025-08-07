@@ -1,6 +1,10 @@
 // Lista de newsletters disponíveis
 const newsletters = [
     {
+        date: "07-08-2025",
+        description: "Brasileiros ricos sem saída, Inter 40 mi clientes, América Latina década perdida"
+    },
+    {
         date: "06-08-2025",
         description: "O gás virou problema ANP, Mercado Livre vs Shopee, iFood R$ 17 bi"
     },
