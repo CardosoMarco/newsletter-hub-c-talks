@@ -1,6 +1,10 @@
 // Lista de newsletters disponíveis
 const newsletters = [
     {
+        date: "11-08-2025",
+        description: "Azul abandona 13 cidades, GPT-5 falha 1º dia, Petz-Cobasi travada Cade"
+    },
+    {
         date: "08-08-2025",
         description: "OpenAI lança GPT-5 e muda o jogo, Zamp fechar capital, SoftBank US$ 2,87 bi IA"
     },
