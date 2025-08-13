@@ -1,6 +1,14 @@
 // Lista de newsletters disponíveis
 const newsletters = [
     {
+        date: "13-08-2025",
+        description: "Previdência na berlinda, BTG lucro R$ 4,2 bi, Brasil R$ 215 bi streaming"
+    },
+    {
+        date: "12-08-2025",
+        description: "Rolex rende mais que ações, China ensina IA para crianças, Meta lança app IA Brasil"
+    },
+    {
         date: "11-08-2025",
         description: "Azul abandona 13 cidades, GPT-5 falha 1º dia, Petz-Cobasi travada Cade"
     },
