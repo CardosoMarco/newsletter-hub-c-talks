@@ -1,6 +1,10 @@
 // Lista de newsletters disponíveis
 const newsletters = [
     {
+        date: "14-08-2025",
+        description: "10 pessoas têm o PIB do Brasil, 66% não contratam sem IA, Trump antecipa Fed"
+    },
+    {
         date: "13-08-2025",
         description: "Previdência na berlinda, BTG lucro R$ 4,2 bi, Brasil R$ 215 bi streaming"
     },
