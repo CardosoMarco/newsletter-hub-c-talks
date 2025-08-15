@@ -1,6 +1,10 @@
 // Lista de newsletters disponíveis
 const newsletters = [
     {
+        date: "15-08-2025",
+        description: "Carros voadores em 2027, Uber+Loggi vs Correios, Apple gasta US$ 1 bi sensor oxigênio"
+    },
+    {
         date: "14-08-2025",
         description: "10 pessoas têm o PIB do Brasil, 66% não contratam sem IA, Trump antecipa Fed"
     },
